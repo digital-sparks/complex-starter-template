@@ -1,6 +1,6 @@
-# Finsweet Developer Starter
+# Digital Sparks Starter Template
 
-A starter template for both Client & Power projects.
+A starter template for both Client & Power projects by Finsweet.
 
 Before starting to work with this template, please take some time to read through the documentation.
 
